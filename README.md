@@ -189,16 +189,16 @@ This system can be used in:
 # 📸 Screenshots
 
 ### 30 DAYS ROLLING MEAN TEMPERATURE
-![Temperature Graph](30 days rolling mean temperature.png)
+![Temperature Graph](30daysrollingmeantemperature.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### wind speed boxplot
-![Random Forest Prediction](wind speed boxplot.png)
+![Random Forest Prediction](windspeedboxplot.png)
 
 ### LSTM Prediction
-![LSTM Prediction](screenshots/lstm_prediction.png)
+![LSTM Prediction](lstm_prediction.png)
 
 ---
 
